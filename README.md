@@ -1,6 +1,5 @@
-# python-demo
-hii
-hello satyam singh.
+# satyam kumar
 
-
+Github class
+# teacher
 shivam
